@@ -1,0 +1,27 @@
+<style>
+.divScroll{
+    overflow-x:auto;
+    overflow-y:auto;
+    height:400px;
+}
+table {
+    table-layout: fixed;
+    display:inline-block;
+}
+label{
+    font-weight: bold;
+    float: left;
+    width: 20%;
+    margin-right: 1em;
+    text-align: right;
+}
+form{
+    display:inline-block;
+}
+<!--
+#form{
+    margin: 15em 0 0 0;
+    padding: 0;
+}
+#field{padding-bottom: 1em;}
+</style>
